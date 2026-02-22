@@ -1,0 +1,76 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "name": "Well Control Fundamentals",
+      "icon": "🎯",
+      "description": "Basic concepts of well control",
+      "topics": ["Pressure basics", "Kick causes", "Warning signs"],
+      "duration": "2 hours",
+      "difficulty": "Beginner"
+    },
+    {
+      "id": 2,
+      "name": "Pressure Calculations",
+      "icon": "📊",
+      "description": "All pressure-related formulas",
+      "topics": ["Hydrostatic", "Formation", "ECD", "Gradients"],
+      "duration": "3 hours",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 3,
+      "name": "Kick Detection",
+      "icon": "⚠️",
+      "description": "How to detect and confirm kicks",
+      "topics": ["Primary indicators", "Secondary indicators", "Pit gain"],
+      "duration": "2 hours",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 4,
+      "name": "Shut-In Procedures",
+      "icon": "🔒",
+      "description": "Proper shut-in techniques",
+      "topics": ["Hard shut-in", "Soft shut-in", "SIDPP vs SICP"],
+      "duration": "2 hours",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 5,
+      "name": "Kill Methods",
+      "icon": "⚡",
+      "description": "Different kill procedures",
+      "topics": ["Driller's Method", "Wait & Weight", "Volumetric"],
+      "duration": "4 hours",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 6,
+      "name": "Equipment & BOP",
+      "icon": "🔧",
+      "description": "Well control equipment",
+      "topics": ["BOP types", "Choke manifold", "Kill line"],
+      "duration": "3 hours",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 7,
+      "name": "Subsea Operations",
+      "icon": "🌊",
+      "description": "Subsea well control specifics",
+      "topics": ["Choke line friction", "Riser margin", "EDS"],
+      "duration": "3 hours",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 8,
+      "name": "Special Situations",
+      "icon": "🚨",
+      "description": "Complex well control scenarios",
+      "topics": ["Underground blowout", "Stuck pipe", "Lost circulation"],
+      "duration": "3 hours",
+      "difficulty": "Advanced"
+    }
+  ]
+}

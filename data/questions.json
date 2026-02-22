@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "module": "Pressure Control",
+      "topic": "Hydrostatic Pressure",
+      "question": "What is the hydrostatic pressure at 10,000 ft TVD with 10 ppg mud?",
+      "options": [
+        "5,200 psi",
+        "5,000 psi",
+        "4,800 psi",
+        "5,500 psi"
+      ],
+      "correct": 0,
+      "explanation": "HP = 0.052 × MW × TVD = 0.052 × 10 × 10,000 = 5,200 psi",
+      "difficulty": "Easy",
+      "tags": ["calculation", "hydrostatic"]
+    },
+    {
+      "id": 2,
+      "module": "Kill Procedures",
+      "topic": "Kill Mud Weight",
+      "question": "SIDPP = 400 psi, TVD = 10,000 ft, OMW = 10 ppg. What is KMW?",
+      "options": [
+        "10.77 ppg",
+        "10.50 ppg",
+        "11.00 ppg",
+        "10.25 ppg"
+      ],
+      "correct": 0,
+      "explanation": "KMW = [SIDPP / (0.052 × TVD)] + OMW = [400 / 520] + 10 = 0.77 + 10 = 10.77 ppg",
+      "difficulty": "Medium",
+      "tags": ["calculation", "kill sheet"]
+    },
+    {
+      "id": 3,
+      "module": "Kill Procedures",
+      "topic": "ICP",
+      "question": "SIDPP = 500 psi, SCR = 400 psi. What is ICP?",
+      "options": [
+        "900 psi",
+        "800 psi",
+        "100 psi",
+        "1,000 psi"
+      ],
+      "correct": 0,
+      "explanation": "ICP = SIDPP + SCR = 500 + 400 = 900 psi",
+      "difficulty": "Easy",
+      "tags": ["calculation", "kill sheet"]
+    }
+  ]
+}

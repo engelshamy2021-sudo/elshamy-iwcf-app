@@ -1,0 +1,37 @@
+topic_id,module_id,topic_name,topic_order,estimated_time
+1,1,Introduction to Well Control,1,30
+2,1,Pressure Concepts,2,45
+3,1,Hydrostatic Pressure,3,60
+4,1,Kick Indicators,4,45
+5,1,Primary vs Secondary Barriers,5,40
+6,2,Formation Pressure,1,60
+7,2,Pressure Gradients,2,50
+8,2,Equivalent Circulating Density (ECD),3,55
+9,2,Bottomhole Pressure Calculations,4,65
+10,2,MAASP Calculations,5,60
+11,3,Primary Kick Indicators,1,45
+12,3,Secondary Kick Indicators,2,40
+13,3,Shut-in Procedures,3,55
+14,3,SIDPP and SICP,4,50
+15,3,Kick Analysis,5,60
+16,4,Driller's Method,1,90
+17,4,Wait and Weight Method,2,90
+18,4,Volumetric Method,3,75
+19,4,Bullheading,4,45
+20,4,Kill Sheet Calculations,5,80
+21,5,BOP Components,1,50
+22,5,Annular Preventer,2,40
+23,5,Ram Preventers,3,45
+24,5,Choke Manifold,4,50
+25,5,Accumulator System,5,45
+26,6,Gas Behavior (Boyle's Law),1,60
+27,6,Gas Migration,2,55
+28,6,Gas Expansion Calculations,3,65
+29,6,Stripping Operations,4,50
+30,7,Lost Circulation,1,55
+31,7,Underground Blowout,2,60
+32,7,Stuck Pipe During Kill,3,50
+33,7,H2S Considerations,4,45
+34,8,IWCF Standards,1,40
+35,8,Safety Procedures,2,45
+36,8,Well Control Barriers,3,50

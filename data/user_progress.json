@@ -1,0 +1,150 @@
+{
+  "user": {
+    "name": "Engineer",
+    "level": "Beginner",
+    "xp": 0,
+    "study_streak": 1,
+    "last_study_date": "2026-02-22",
+    "joined_date": null
+  },
+  "modules": {
+    "total": 8,
+    "completed": [],
+    "in_progress": [],
+    "topics_completed": [],
+    "completed_topics": [],
+    "bookmarked_topics": [],
+    "module_progress": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    }
+  },
+  "questions": {
+    "total_attempted": 1,
+    "total_correct": 1,
+    "by_category": {
+      "Module 1 - Barriers": {
+        "attempted": 1,
+        "correct": 1
+      }
+    }
+  },
+  "quizzes": {
+    "completed": 0,
+    "scores": []
+  },
+  "mock_exams": {
+    "total": 10,
+    "attempted": [],
+    "passed": [],
+    "scores": {}
+  },
+  "flashcards": {
+    "reviewed": 0,
+    "mastered": []
+  },
+  "scenarios": {
+    "completed": [],
+    "scores": {}
+  },
+  "daily_challenge": {
+    "date": "2026-02-22",
+    "progress": 1,
+    "completed": false
+  },
+  "achievements": {
+    "unlocked": [],
+    "xp_total": 5,
+    "study_streak": 1,
+    "last_study_date": "2026-02-22",
+    "level": 1,
+    "badges": []
+  },
+  "study_time": {
+    "total_minutes": 0,
+    "by_date": {},
+    "weekly": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "user_info": {
+    "name": "Engineer",
+    "created_date": "2026-02-22",
+    "last_login": "2026-02-22 08:35:19",
+    "level": "Beginner",
+    "joined_date": "2026-02-22"
+  },
+  "quiz": {
+    "questions_solved": 0,
+    "total_attempted": 0,
+    "questions_correct": 0,
+    "total_correct": 0,
+    "questions_wrong": 0,
+    "by_module": {
+      "1": {
+        "total": 0,
+        "correct": 0
+      },
+      "2": {
+        "total": 0,
+        "correct": 0
+      },
+      "3": {
+        "total": 0,
+        "correct": 0
+      },
+      "4": {
+        "total": 0,
+        "correct": 0
+      },
+      "5": {
+        "total": 0,
+        "correct": 0
+      },
+      "6": {
+        "total": 0,
+        "correct": 0
+      },
+      "7": {
+        "total": 0,
+        "correct": 0
+      },
+      "8": {
+        "total": 0,
+        "correct": 0
+      }
+    },
+    "by_category": {},
+    "by_topic": {},
+    "completed": 0,
+    "scores": []
+  },
+  "exams": {
+    "total": 10,
+    "mock_exams_taken": 0,
+    "mock_exams_passed": 0,
+    "attempted": [],
+    "passed": [],
+    "best_score": 0,
+    "average_score": 0,
+    "exam_history": [],
+    "scores": {}
+  },
+  "settings": {
+    "difficulty": "medium",
+    "show_hints": true,
+    "dark_mode": false
+  }
+}
